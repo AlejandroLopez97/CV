@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+    
+}
+body{
+    background-image: url('./imagenes/background2.jpg');
+    background-size: 255%;
+}
+#padre{
+    padding-top: 2%;
+    margin: 0;
+    padding-left: 5%;
+}
+#perfil{
+    width: 75%; height: 80%;
+    border-radius: 50%;
+}
+#name{
+    padding-top: 5% ;
+}
+#contacto{
+    padding-top: 3.5%;
+}
+.ir-arriba {
+	display:none;
+	padding:15px;
+	background:#46bcd6;
+	font-size:20px;
+	color:rgb(14, 11, 11);
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	right:20px;
+    border-radius: 50%;
+}
