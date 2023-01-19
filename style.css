@@ -4,8 +4,8 @@
     
 }
 body{
-    background-image: url('./imagenes/background2.jpg');
-    background-size: 255%;
+    /*background-image: url('./imagenes/background2.jpg');
+    background-size: 255%;*/
 }
 #padre{
     padding-top: 2%;
